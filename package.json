@@ -1,5 +1,5 @@
 {
-  "name": "rehype-flter-tags",
+  "name": "rehype-filter-tags",
   "version": "0.0.1",
   "description": "A simple rehype plugin to filter out html tags.",
   "author": "Eric Hubbell<eric@erichubbell.com>",
