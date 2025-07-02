@@ -1,6 +1,6 @@
 {
   "name": "rehype-flter-tags",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A simple rehype plugin to filter out html tags.",
   "author": "Eric Hubbell<eric@erichubbell.com>",
   "license": "ISC",
