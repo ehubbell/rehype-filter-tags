@@ -8,7 +8,7 @@
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ehubbell/rehype-filter-tags.git"
+    "url": "git+https://github.com/ehubbell/rehype-filter-tags.git"
   },
   "files": [
     "dist"
